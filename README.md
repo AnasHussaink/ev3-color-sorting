@@ -24,6 +24,10 @@
 
 This project implements an **automated color-sorting mechatronic system** using a LEGO EV3 Mindstorms manipulator robot integrated with a conveyor belt. The system detects the color of balls on the conveyor using a color sensor and performs the following actions:
 
+
+<img width="1208" height="699" alt="image" src="https://github.com/user-attachments/assets/091b6efd-d201-4f70-84bb-497c3c9d83ac" />
+
+
 | Color | Action |
 |-------|--------|
 | 🖤 **Black** | Conveyor transports ball to **Station 3** (left end) |
