@@ -1,7 +1,5 @@
 # 🤖 EV3 Manipulator Robot — Color Sorting with Conveyor
 
-> **Mechatronics System Laboratory | WS 2025–2026 | University of Siegen | Group 6**
-
 ![Platform](https://img.shields.io/badge/Platform-LEGO%20EV3%20MicroPython-yellow)
 ![Language](https://img.shields.io/badge/Language-MicroPython-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
